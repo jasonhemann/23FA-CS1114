@@ -33,7 +33,7 @@ gem "csv", "~> 3.2"
 gem "bigdecimal", "~> 3.1"
 
 # GitHub Pages pinned environment
- gem "github-pages", "~> 232", group: :jekyll_plugins
+gem "github-pages", "~> 232", group: :jekyll_plugins
 
 # Local build TLS workaround for remote_theme
- gem "openssl", "~> 3.2.2"
+gem "openssl", "~> 3.2.2"
