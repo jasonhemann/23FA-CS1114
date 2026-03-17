@@ -116,7 +116,7 @@ weeks:
             link: "https://www.youtube.com/watch?v=ZEfMCxf6bGA"
         extra_resources:
           - title: "BSL Table Design"
-            link: "http://cedar.sice.indiana.edu:35888/Beginning-Student-Tables/"
+            link: "https://github.com/samth/Beginning-Student-Tables"
           - title: "The Design Recipe in short, for data and functions"
             link: "https://cs.berry.edu/webdocs-common/csc120/docs/recipes/"
   - week_offset: 2
@@ -452,7 +452,7 @@ weeks:
           - title: "Moving the World"
             link: "https://www.youtube.com/watch?v=onDYL6az1cY"
           - title: "Rebecca Heineman won the 1st eSports competition playing \"Space Invaders\""
-            link: "https://www.atariwomen.org/stories/rebecca-heineman/"
+            link: "https://en.wikipedia.org/wiki/Rebecca_Heineman"
       - day: W  # Wednesday
         title: "Local definitions and lambda abstraction"
         topics:
